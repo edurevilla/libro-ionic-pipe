@@ -7,6 +7,9 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+  precio = 0;
+  tipoMoneda = 'Euro';
+
   constructor() {}
 
 }
